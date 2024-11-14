@@ -11,20 +11,12 @@ a simple Pygame-based simulation of a Rock-Paper-Scissors game where three types
 
 - **Dynamic Movement**: Entities move towards their targets or away from threats, with randomized directions.
 - **Tribal Conversion**: Entities within a certain radius of their targets convert them to their tribe.
-- **Pause and Play**: Pause the simulation by clicking. ✨
+- **Pause and Play**: Pause the simulation by clicking. (yes this is a feature)
 - **Win Detection**: The game declares a winner when only one tribe remains.
 
 ## Requirements
 
 - Python 3.x
 - Pygame
-
-## Setup
-
-2. Install Pygame:
    ```bash
    pip install pygame
-
-
-
-
