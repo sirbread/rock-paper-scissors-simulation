@@ -1,4 +1,4 @@
-# rock-paper-scissors-simulation
+# Rock Paper Scissors: The Finale
 remember that one video you saw on tiktok a while ago? i made it lol
 https://youtu.be/Ffkuzy50UNM
 
