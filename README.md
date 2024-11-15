@@ -1,4 +1,4 @@
-# Rock Paper Scissors: The Finale
+# rock paper scissors: the finale
 remember that one video you saw on tiktok a while ago? i made it lol
 https://youtu.be/Ffkuzy50UNM
 
@@ -20,3 +20,5 @@ a simple Pygame-based simulation of a Rock-Paper-Scissors game where three types
 - Pygame
    ```bash
    pip install pygame
+
+aaalsoooo theres another bugged out python file in assets but it has a cool visual effect so i kept it :3
